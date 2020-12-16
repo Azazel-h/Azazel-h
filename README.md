@@ -8,7 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azazel-h&show_icons=true&theme=dark&include_all_commits=true&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azazel-h&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
 <a href="mailto:yasuhiro.corp@gmail.com"> E-mail: `yasuhiro.corp@gmail.com`</a>
