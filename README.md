@@ -2,6 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity%20-%23000000.svg?&style=flat-square&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
