@@ -15,7 +15,7 @@
 
 ## Donate
 * <a href="https://qiwi.com/n/AZAZELH"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 align="center" /> QIWI Wallet</a>
-* <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xe6C8699a9b7E2Dd4E58317C510fC208c025f5f0A`
+* <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xce69fcc9498ac5f6772001174fedf1084e891e33`
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
