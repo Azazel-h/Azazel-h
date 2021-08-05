@@ -11,6 +11,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azazel-h&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
+There are not all my projects, so you can contact me if you need
 <a href="mailto:yasuhiro.corp@gmail.com"> E-mail: `yasuhiro.corp@gmail.com`</a>
 
 ## Donate
