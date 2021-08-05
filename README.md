@@ -16,7 +16,7 @@ There are not all my projects, so you can contact me if you need
 
 ## Donate
 * <a href="https://qiwi.com/n/AZAZELH"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 align="center" /> QIWI Wallet</a>
-* <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xce69fcc9498ac5f6772001174fedf1084e891e33`
+* <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xCe69FcC9498AC5F6772001174FedF1084E891E33`
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
