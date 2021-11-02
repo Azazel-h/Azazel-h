@@ -8,7 +8,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azazel-h&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <table>
+    <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azazel-h&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+    </tr>   
+  </table>
+</p>
 
 ## Contact me
 There are not all my projects, so you can contact me if you need</br>
