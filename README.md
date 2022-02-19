@@ -18,7 +18,7 @@
 </p>
 
 ## Contact me
-There are not all my projects, so you can contact me if you need</br>
+There are not all my projects, so you can contact me if you need more</br>
 <a href="mailto:yasuhiro.corp@gmail.com"> E-mail: `yasuhiro.corp@gmail.com`</a>
 
 ## Donate
