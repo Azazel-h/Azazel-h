@@ -22,7 +22,6 @@ There are not all my projects, so you can contact me if you need more</br>
 <a href="mailto:yasuhiro.corp@gmail.com"> E-mail: `yasuhiro.corp@gmail.com`</a>
 
 ## Donate
-* <a href="https://qiwi.com/n/AZAZELH"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 align="center" /> QIWI Wallet</a>
 * <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xCe69FcC9498AC5F6772001174FedF1084E891E33`
 
 
