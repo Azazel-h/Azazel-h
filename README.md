@@ -18,8 +18,9 @@
 </p>
 
 ## Contact me
-There are not all my projects, so you can contact me if you need more</br>
+There are not all my projects, so you can contact me if you need</br>
 <a href="mailto:yasuhiro.corp@gmail.com"> E-mail: `yasuhiro.corp@gmail.com`</a>
+<b>Please, use my EMAIL. Do not try to find me somewhere else</b>
 
 ## Donate
 * <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0xCe69FcC9498AC5F6772001174FedF1084E891E33`
