@@ -6,7 +6,6 @@
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)
 ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 
 <p align="center">
   <table>
