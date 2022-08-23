@@ -17,7 +17,8 @@
 </p>
 
 ## Contact me
-There are not all my projects, so you can contact me if you need <b>E-mail: <a href="mailto:yasuhiro.corp@gmail.com">`yasuhiro.corp@gmail.com`</a></b>\
+If you need\
+<b>E-mail: <a href="mailto:yasuhiro.corp@gmail.com">`yasuhiro.corp@gmail.com`</a></b>\
 <b>Please, use my E-MAIL. Do not try to find me somewhere else</b>
 
 ## Donate
