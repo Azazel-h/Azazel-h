@@ -10,8 +10,10 @@
 <p align="center">
   <table>
     <tr>
-      <td><img width="550px" align="left" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=transparent&icon_color=5194f0"/></td>
-      <td><img width="550px" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=transparent&icon_color=5194f0" /></td>
+      <td><img width="550px" align="left" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0#gh-dark-mode-only"/>
+      <img width="550px" align="left" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=default&icon_color=5194f0#gh-light-mode-only"/></td>
+      <td><img width="550px" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0#gh-dark-mode-only"/>
+      <img width="550px" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=default&icon_color=5194f0#gh-light-mode-only"/></td>
     </tr>   
   </table>
 </p>
