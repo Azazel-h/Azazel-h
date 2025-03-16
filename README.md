@@ -10,7 +10,7 @@
 <div align="center" style="font-size:0">
   <!-- Dark Mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" style="display:inline-block">
-    <img width="49%" style="margin:0; padding:0" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's GitHub stats-Dark"/><img width="38.5%" style="margin:0; padding:0" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's Top Langs-Dark"/>
+    <img width="49%" style="margin:0; padding:0" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=00000000#gh-dark-mode-only" alt="Azazel's GitHub stats-Dark"/><img width="38.5%" style="margin:0; padding:0" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=00000000#gh-dark-mode-only" alt="Azazel's Top Langs-Dark"/>
   </a>
   
   <!-- Light Mode -->
