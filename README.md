@@ -7,36 +7,19 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 
-<div align="center">
-  <!-- Dark Mode Stats (left and right cards) -->
-  <picture>
-    <source 
-      srcset="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0"
-      media="(prefers-color-scheme: dark)"
-      width="480"
-    />
-    <source
-      srcset="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=default&icon_color=5194f0"
-      media="(prefers-color-scheme: light)"
-      width="480"
-    />
-    <img width="480" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0"
-      media="(prefers-color-scheme: dark)"
-      width="378"
-    />
-    <source
-      srcset="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=default&icon_color=5194f0"
-      media="(prefers-color-scheme: light)"
-      width="378"
-    />
-    <img width="378" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0" />
-  </picture>
-</div>
-
+<!-- Dark Mode -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img width="480" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's GitHub stats-Dark"/>
+    <img width="378" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's Top Langs-Dark"/>
+  </a>
+  
+  <!-- Light Mode -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img width="480" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=default&icon_color=5194f0#gh-light-mode-only" alt="Azazel's GitHub stats-Light"/>
+    <img width="378" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=default&icon_color=5194f0#gh-light-mode-only" alt="Azazel's Top Langs-Light"/>
+  </a>
+</p>
 
 ## Contact me
 <b>E-mail: <a href="mailto:yasuhiro.corp@gmail.com">`yasuhiro.corp@gmail.com`</a></b>\
