@@ -7,16 +7,36 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 
-<p align="center">
-  <table>
-    <tr>
-      <td><img width="550px" align="left" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0#gh-dark-mode-only"/>
-      <img width="550px" align="left" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=default&icon_color=5194f0#gh-light-mode-only"/></td>
-      <td><img width="550px" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0#gh-dark-mode-only"/>
-      <img width="550px" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=default&icon_color=5194f0#gh-light-mode-only"/></td>
-    </tr>   
-  </table>
-</p>
+<div align="center">
+  <!-- Dark Mode Stats (left and right cards) -->
+  <picture>
+    <source 
+      srcset="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0"
+      media="(prefers-color-scheme: dark)"
+      width="480"
+    />
+    <source
+      srcset="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=default&icon_color=5194f0"
+      media="(prefers-color-scheme: light)"
+      width="480"
+    />
+    <img width="480" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0"
+      media="(prefers-color-scheme: dark)"
+      width="378"
+    />
+    <source
+      srcset="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=default&icon_color=5194f0"
+      media="(prefers-color-scheme: light)"
+      width="378"
+    />
+    <img width="378" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0" />
+  </picture>
+</div>
+
 
 ## Contact me
 <b>E-mail: <a href="mailto:yasuhiro.corp@gmail.com">`yasuhiro.corp@gmail.com`</a></b>\
@@ -24,6 +44,5 @@
 
 ## Donate
 * <img src="https://cdn.iconscout.com/icon/free/png-256/ethereum-3-569581.png" width=16 height=16 align="center" /> Ethereum: `0x3c6787d205ad1abc8dC76cd34128D482FE3a9b14`
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
