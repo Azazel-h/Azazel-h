@@ -10,14 +10,14 @@
 <!-- Dark Mode -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img width="480" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's GitHub stats-Dark"/>
-    <img width="378" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's Top Langs-Dark"/>
+    <img width="49%" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's GitHub stats-Dark"/>
+    <img width="38.5%" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0#gh-dark-mode-only" alt="Azazel's Top Langs-Dark"/>
   </a>
   
   <!-- Light Mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img width="480" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=default&icon_color=5194f0#gh-light-mode-only" alt="Azazel's GitHub stats-Light"/>
-    <img width="378" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=default&icon_color=5194f0#gh-light-mode-only" alt="Azazel's Top Langs-Light"/>
+    <img width="49%" src="https://my-github-readme-stats-six.vercel.app/api?username=Azazel-h&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=default&icon_color=5194f0#gh-light-mode-only" alt="Azazel's GitHub stats-Light"/>
+    <img width="38.5%" src="https://my-github-readme-stats-six.vercel.app/api/top-langs/?username=Azazel-h&langs_count=5&hide=html&&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=default&icon_color=5194f0#gh-light-mode-only" alt="Azazel's Top Langs-Light"/>
   </a>
 </p>
 
